@@ -1,4 +1,4 @@
-<h1 align="center">Student setup</h1>
+<h1 align="center">Student-Setup</h1>
 <h3 align="center">Setup-ul presupune utilizarea sistemului de operare Windows</h3>
 
 Pentru a rula si rezolva laboratoarele este obligatorie instalarea urmatoarelor programe si urmarea instructiunilor ce se regasesc in acest README.md. Pentru orice neclaritati in urmarea pasilor se recomanda intrebarea pe forumul Student-Setup de pe moodle.
