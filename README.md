@@ -1,4 +1,4 @@
-# Setup student
+<h1 align="center">Student setup</h1>
 
 Pentru a rula si rezolva laboratoarele este obligatorie instalarea urmatoarelor programe si urmarea instructiunilor ce se regasesc in acest README.md
 
