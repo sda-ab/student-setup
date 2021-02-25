@@ -1,6 +1,6 @@
 <h1 align="center">Student setup</h1>
 
-Pentru a rula si rezolva laboratoarele este obligatorie instalarea urmatoarelor programe si urmarea instructiunilor ce se regasesc in acest README.md
+Pentru a rula si rezolva laboratoarele este obligatorie instalarea urmatoarelor programe si urmarea instructiunilor ce se regasesc in acest README.md. Pentru orice neclaritati in urmarea pasilor se recomanda intrebarea pe forumul Student-Setup de pe moodle
 
 Programele necesare sunt:
  - [MinGW](https://sourceforge.net/projects/mingw/) - set de programe ce emuleaza ecosistemul Linux pe Windows
