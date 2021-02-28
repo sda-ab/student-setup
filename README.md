@@ -1,7 +1,7 @@
 <h1 align="center">Student-Setup</h1>
 <h3 align="center">Setup-ul presupune utilizarea sistemului de operare Windows</h3>
 
-Pentru a putea rula si rezolva laboratoarele de la SDA este obligatorie instalarea urmatoarelor programe si urmarea instructiunilor ce se regasesc in acest README.md. Orice neclaritati in urmarea pasilor pot fi prezentate pe forumul Student-Setup de pe moodle.
+Pentru a putea rula si rezolva laboratoarele de la SDA este obligatorie instalarea urmatoarelor programe si parcurgerea instructiunilor ce se regasesc in acest README.md. Orice neclaritati in urmarea pasilor pot fi prezentate pe forumul Student-Setup de pe moodle.
 
 Programele necesare sunt:
  - [MinGW](https://sourceforge.net/projects/mingw/) - set de programe ce emuleaza ecosistemul Linux pe Windows
