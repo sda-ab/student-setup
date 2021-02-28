@@ -31,6 +31,16 @@ C:\Users\gabriel.rusu\Desktop\student-setup>g++
 g++: fatal error: no input files
 compilation terminated.
 ```
+## Indicatii rezolvare laborator:
+1. **Citirea/Afisarea se face din/in fisier.**
+2. Pentru fiecare cerinta se implementeaza functiile din fisierele **.c** din folderul **src**.
+3. Pentru verificarea locala este indicat sa apelati in **main.c** (din **src**) functiile pe care le-ati implementat si vreti sa le testati.
+4. Fiecare functie pe care trebuie sa o implementati este descrisa in fisierele **.c** sub forma de comentariu. (Exemplu: //TODO: Implementeaza functia ,,sortare" + descriere parametri + hint-uri)
+5. Nu modificati codul predefinit, aveti permisiunea de a modifica codul doar cand acest lucru o sa fie specificat.
+6. Dupa ce ati terminat de implementat o functie se recomanda stergerea comentariului **TODO**.
+7. Se face **exceptie** de la indicatia **punctului 6** doar in cazul in care comentariul **TODO** apare in interiorul unei functii. In acest caz trebuie sa completati cu raspunsul vostru in interiorul acelui comentariu.<br>
+***Exemplu:*** _/*TODO: Care este complexitatea metodei folosite? Raspuns: O(n^3) deoarece ..._*/
+
 
 ## FAQ:
 
