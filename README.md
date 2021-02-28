@@ -11,7 +11,7 @@ Programele necesare sunt:
  <img src="./resources/minGW.jpg">
 In urma alegerii pachetelor expuse se va apasa butonul Instalation -> Apply Changes si se va astepta instalarea acestora.
 
-Dupa instalare, se vor edita variabilele de sistem (environment variables) si se vor adauga path-urile catre fiserele bin ale minGW (Pentru a accesa optiunea trebuie sa scrieti in meniul de start al Windows-ului 'env' si sa selecati optiunea de mai jos. Accesarea meniului de start Windows se face prin apasarea pe butonul cu simbolul windows de la tastatura).
+Dupa instalare, se vor edita variabilele de sistem (environment variables) si se vor adauga path-urile catre fisierele bin ale minGW (Pentru a accesa optiunea trebuie sa scrieti in meniul de start al Windows-ului 'env' si sa selecati optiunea de mai jos. Accesarea meniului de start Windows se face prin apasarea pe butonul cu simbolul windows de la tastatura).
 <img src="./resources/envp0.jpg">
 Daca instalarea s-a facut fara a modifica path-ul propus de installer, atunci urmatoarele path-uri sunt cele dorite:
 
@@ -24,7 +24,7 @@ C:\MinGW\msys\1.0\bin
 Path-urile de mai sus vor fi introduse in variabila de sistem Path prin selectarea variabilei Path si apasarea pe butonul Edit.
 <img src="./resources/envp3.jpg">
 
-Pentru a testa ca procesul a reusit, scrieti in terminalul windows cmd comanda ```g++```; daca obtineti un mesaj similar cu cel de jos, inseamna ca Windows-ul a reusit sa gaseasca programul ```g++``` dar ca nu a primit un fiiser pe care sa il compileze :
+Pentru a testa ca procesul a reusit, scrieti in terminalul windows cmd comanda ```g++```; daca obtineti un mesaj similar cu cel de jos, inseamna ca Windows-ul a reusit sa gaseasca programul ```g++```, dar ca nu a primit un fiiser pe care sa il compileze:
 
 ``` 
 C:\Users\gabriel.rusu\Desktop\student-setup>g++
@@ -52,7 +52,9 @@ Acest setup are rolul de a va ajuta sa rulati testele unitare aferente fiecarui 
 
 In fiecare saptamana veti primi un nou schelet de laborator ce are ca scop introducerea studentilor in notiunile predate la curs intr-un mod practic.
 
-Se numeste schelet de laborator deoarece voi va trebui sa completati logica functiilor descrise in schelet fara sa scrieti un program functional de la 0 in fiecare saptamana.
+Se numeste schelet de laborator deoarece este un mecanism prin care nu este necesara scrierea unui program functional de la 0, ci intelegerea termenului studiat si  completarea unuia deja existent 
+
+completarea logica functiilor descrise in schelet fara sa scrieti un program functional de la 0 in fiecare saptamana.
 
 ### Ce sunt testele unitare ?
 
