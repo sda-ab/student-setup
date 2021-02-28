@@ -60,6 +60,6 @@ make test
 
 ### Ce incarc pe moodle ?
 
-Pe Moodle va trebuii incarcat doar folder-ul src ce contine tot codul sursa la care ati lucrat.
+Pe Moodle va trebuii incarcat doar folder-ul __src__ ce contine tot codul sursa la care ati lucrat.
 
 Se recomanda trimiterea folderului intr-o arhiva .rar/.zip
