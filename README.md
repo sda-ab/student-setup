@@ -24,7 +24,7 @@ C:\MinGW\msys\1.0\bin
 Path-urile de mai sus vor fi introduse in variabila de sistem Path prin selectarea variabilei Path si apasarea pe butonul Edit...
 <img src="./resources/envp3.jpg">
 
-Pentru a testa ca procesul a reusit scrieti in terminalul windows cmd comanda `` `g++` ` `, daca obtineti un mesaj similar cu cel de jos inseamna ca Windows-ul  reusit sa gaseasca programul ` ` `g++` `` dar ca nu a primit un fiiser pe care sa il compileze :
+Pentru a testa ca procesul a reusit scrieti in terminalul windows cmd comanda ```g++```, daca obtineti un mesaj similar cu cel de jos inseamna ca Windows-ul  reusit sa gaseasca programul ```g++``` dar ca nu a primit un fiiser pe care sa il compileze :
 
 ``` 
 C:\Users\gabriel.rusu\Desktop\student-setup>g++
